@@ -6,5 +6,5 @@ class App < Sinatra::Base
     "Welcome to your app!!!! I BUILT THIS!"
     <h2>"This is indeed magical"</h2>
   end
-
+end
 end
